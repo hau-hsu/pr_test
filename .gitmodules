@@ -1,0 +1,4 @@
+[submodule ".toolchain-cicd"]
+	path = .toolchain-cicd
+	url = git@github.com:sifive/toolchain-cicd.git
+	branch = dev
